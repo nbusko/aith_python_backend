@@ -30,3 +30,4 @@ env/
 
 # Pytest
 .cache
+.pytest_cache

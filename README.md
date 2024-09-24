@@ -38,7 +38,8 @@ aith_python_backend/
 ```
 4. **Открыть второй терминал, перейти в директорию с тестами и запустить их:**
 ```bash
-   cd aith_python_backend/hw_1/test
+   source aith_python_backend/hw_1/venv/bin/activate
+   cd aith_python_backend/hw_1/test/
    pytest .
 ```
 
