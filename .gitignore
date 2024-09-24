@@ -1,0 +1,32 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Environments
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Pytest
+.cache
